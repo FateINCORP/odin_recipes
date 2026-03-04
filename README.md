@@ -1,1 +1,2 @@
 # odin_recipes
+What i look to demonstrate and learn with this project is the abilty to create a community website based on the combination of talents. This will a project that I predict will take awhile to complete but a dreamcome true once its finished.
