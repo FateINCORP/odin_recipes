@@ -1,2 +1,2 @@
 # odin_recipes
-What i look to demonstrate and learn with this project is the abilty to create a community website based on the combination of talents. This will a project that I predict will take awhile to complete but a dreamcome true once its finished
+What i look to demonstrate and learn with this project is my proggression from beginner to building my own community website. This may take awhile to accomplish but a dream come true once its finished.
